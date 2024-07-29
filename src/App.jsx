@@ -13,6 +13,7 @@ import AddProduct from "./Pages/AddProduct";
 export const App = () => {
   return (
     <div>
+      <h1 className='text-3xl'>This is an E Commerce App</h1>
       <Login />
       <Home />
       <AddProduct />
